@@ -2,3 +2,7 @@
 
 This is an AWS Lambda function wrapper for a script to clean up user's history.
 
+Leverages the twitterwipe repo: https://github.com/murdoc02/twitterwipe
+
+There are Twitter API limitations to deleting large numbers tweets in the past. This repo has some useful information in this csae: https://github.com:koenrh/delete-tweets
+

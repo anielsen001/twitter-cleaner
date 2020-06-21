@@ -1,0 +1,4 @@
+[submodule "twitterwipe"]
+	path = twitterwipe
+	url = git@github.com:anielsen001/twitterwipe.git
+	branch = env_var
